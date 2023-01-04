@@ -12,7 +12,7 @@ Olá, sou Samuel Filho Desenvolvedor Júnior Back-End Java | Cursando Sistemas D
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=samuelfilho-dev&show_icons=true&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfilho-dev&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samuelfilho-dev&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samuelfilho-dev&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
