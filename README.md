@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me:
-Olá, sou Samuel Filho Desenvolvedor Júnior Back-End Java | Cursando Sistemas De Informação - Graduação - Universidade Federal Rural Da Amazônia (UFRA) | Desenvolvedor Back-End Java Com Spring | Cursando uma formação de DevOps nas plataformas de Cloud GCP e AWS pela Digital Innovation One.
+Olá, sou Samuel Filho Desenvolvedor Back-End Java Com Spring | Cursando Sistemas De Informação - Graduação - Universidade Federal Rural Da Amazônia (UFRA) | Cursando uma formação de DevOps nas plataformas de Cloud GCP e AWS pela Digital Innovation One.
 
 
 ## 🌐 Socials:
