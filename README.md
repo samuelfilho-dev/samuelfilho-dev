@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me:
-Olá, sou Samuel Filho Desenvolvedor Back-End Java Com Spring | Cursando Sistemas De Informação - Graduação - Universidade Federal Rural Da Amazônia (UFRA) | Cursando uma formação de DevOps nas plataformas de Cloud GCP e AWS pela Digital Innovation One.
+Olá Pessoal, Sou o Samuel Filho atualmente tenho vivência em desenvolvimento de aplicações utilizando o Spring, no caso Spring Web para API, persistência em Banco De Dados usando Spring Data JPA com o Hibernate, a segurança da aplicação usando o Spring Security com a criação de JSON Web Token (JWT). Além de vivências com dois banco de dados muito utilizados no mercado o MySQL e PostgreSQL.
 
 
 ## 🌐 Socials:
