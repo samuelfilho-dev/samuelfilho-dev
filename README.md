@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me:
-__Olá__ , Sou o Samuel Filho atualmente tenho vivência em desenvolvimento de aplicações utilizando o Spring, no caso Spring Web para API, persistência em Banco De Dados usando Spring Data JPA com o Hibernate, a segurança da aplicação usando o Spring Security com a criação de JSON Web Token (JWT). Além de vivências com dois banco de dados muito utilizados no mercado o MySQL e PostgreSQL.
+__Hi__, I'm Samuel Filho, I have a Bachelor's degree in Information Systems from UFRA - Campus Paragominas, and I'm part of a research group at the university called LabTec (Computer Technology Laboratory). In it, together with NEES, we developed a tool to combat school evasion at the request of the MEC. In my projects, I work using the Java language together with the Spring Framework. One of the projects is called OsWorks, an API for managing contracts and service orders using Scrum. Another project would be to register people and their addresses, as well as a RESTful API with CRUD on various themes, games, Tea Language and TODO list. There's an API project for creating Raffle Management created with Django Rest Framework with Python. During the internship, I learnt how to make web applications at an advanced level using TypeScript, React and Nestjs.
 
 
 ## 🌐 Socials:
